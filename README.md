@@ -57,7 +57,3 @@ Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&
 - [ ] Concepts clés des Boids
 - [ ] Algorithmes de gradient descent et simulated annealing
 - [ ] Spécificités Unity pour l'IA
-
-
-
-*Dernière mise à jour : [Date] par [Nom de l'étudiant]*
