@@ -10,9 +10,9 @@
 ### ⛰️ Skieur et montagne
 
 **🔗 Template de départ** : https://editor.p5js.org/nadineducegep/sketches/E8bEEgaLZ  
-📁 **Version A - COMPLETE ** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
-📁 **Version B - VOISIN ** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
-📁 **Version C - HASARD ** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
+📁 **Version COMPLETE ** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
+📁 **Version VOISIN ** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
+📁 **Version HASARD ** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
 
 ### 💬 Rappel des explications
 | Version | Description |
