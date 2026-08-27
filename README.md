@@ -10,16 +10,16 @@
 ### ⛰️ Skieur et montagne
 
 **🔗 Template de départ** : https://editor.p5js.org/nadineducegep/sketches/E8bEEgaLZ  
-📁 **Version 0** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
-📁 **Version 1 ou 2** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
-📁 **Version 4** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
+📁 **Version A - COMPLETE ** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
+📁 **Version B - VOISIN ** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
+📁 **Version C - HASARD ** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
 
 ### 💬 Rappel des explications
 | Version | Description |
 |---------|-------------|
-| **Systématique** | [Recherche exhaustive](https://docs.google.com/presentation/d/12mBEZMuy-yVeLgereS14DVgdjge6lRDULpInDgTaJ2k/edit?slide=id.g138fd78470e_0_55#slide=id.g138fd78470e_0_55) | 
+| **Complete** | [Recherche exhaustive](https://docs.google.com/presentation/d/12mBEZMuy-yVeLgereS14DVgdjge6lRDULpInDgTaJ2k/edit?slide=id.g138fd78470e_0_55#slide=id.g138fd78470e_0_55) | 
 | **Voisins** | [Recherche locale](https://docs.google.com/presentation/d/12mBEZMuy-yVeLgereS14DVgdjge6lRDULpInDgTaJ2k/edit?slide=id.g138fd78470e_0_74#slide=id.g138fd78470e_0_74) | 
-| **Refroidissement** | [Simulated annealing](https://docs.google.com/presentation/d/12mBEZMuy-yVeLgereS14DVgdjge6lRDULpInDgTaJ2k/edit?slide=id.g138fd78470e_0_124#slide=id.g138fd78470e_0_124) |
+| **Hasard + Refroidissement** | [Simulated annealing](https://docs.google.com/presentation/d/12mBEZMuy-yVeLgereS14DVgdjge6lRDULpInDgTaJ2k/edit?slide=id.g138fd78470e_0_124#slide=id.g138fd78470e_0_124) |
 
 ---
 
