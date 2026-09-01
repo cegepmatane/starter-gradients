@@ -10,9 +10,9 @@
 ### ⛰️ Skieur et montagne
 
 **🔗 Template de départ** : https://editor.p5js.org/nadineducegep/sketches/E8bEEgaLZ  
-📁 **Version COMPLETE ** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
-📁 **Version VOISIN ** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
-📁 **Version HASARD ** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
+📁 **Version COMPLÈTE** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
+📁 **Version VOISIN** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
+📁 **Version HASARD** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
 
 ### 💬 Rappel des explications
 | Version | Description |
@@ -30,7 +30,8 @@
 📁 **Mon implémentation (Alignement, Cohésion, Séparation)** : 🔴 LIEN À REMPLIR
 
 ### 🕊️ Partie 2 : Prépa Flock (Déconstruction & Tutoriel)
-> **Rappel du cadrage :** Vous devez déconstruire une simulation de flocking et la renommer & commenter pour en faire un **tutoriel compréhensible pour un débutant** qui clarifie les 3 gradients **(Alignement, Cohésion, Séparation)**.
+> **Rappel de la mission :** Vous devez déconstruire une simulation de flocking et la renommer & commenter pour en faire un **tutoriel compréhensible pour un débutant** qui clarifie les 3 gradients **(Alignement, Cohésion, Séparation)**.
+
 Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&type=repositories&l=JavaScript  
 **⚙️ Choix de source** :  🔴 LIEN À REMPLIR  
 📁 **Lien vers mon code / tutoriel** : 🔴 LIEN À REMPLIR
