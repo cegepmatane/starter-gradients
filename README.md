@@ -29,7 +29,7 @@
 **🔗 Code Boid starter** : https://editor.p5js.org/nadineducegep/sketches/BvBQxERSC
 📁 **Mon implémentation (Alignement, Cohésion, Séparation)** : 🔴 LIEN À REMPLIR
 
-### 🕊️ Partie 2 : Prépa Flock (Déconstruction & Tutoriel)
+### 🕊️ Partie 2 : Tuto-Flock (Déconstruction & Tutoriel)
 > **Rappel de la mission :** Vous devez déconstruire une simulation de flocking et la renommer & commenter pour en faire un **tutoriel compréhensible pour un débutant** qui clarifie les 3 gradients **(Alignement, Cohésion, Séparation)**.
 
 Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&type=repositories&l=JavaScript  
